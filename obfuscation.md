@@ -5,3 +5,5 @@
 
 ###  Opaque Predicate: Attack and Defense in Obfuscated Binary Code
 - https://etda.libraries.psu.edu/files/final_submissions/17513
+### Collatz Problem
+- https://mathworld.wolfram.com/CollatzProblem.html
