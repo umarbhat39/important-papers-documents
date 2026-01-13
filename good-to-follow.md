@@ -1,0 +1,3 @@
+- Krebs on Security - https://krebsonsecurity.com
+- The Hacker News -  https://thehackernews.com
+- BleepingComputer - https://www.bleepingcomputer.com
